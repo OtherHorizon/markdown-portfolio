@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+![Mail me via github](https://github.com/OtherHorizon)
+
+Obligatory: https://tenor.com/view/congratulations-neon-genesis-evangelion-gif-10554579
